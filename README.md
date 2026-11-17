@@ -173,7 +173,7 @@ IoT dan sistem tertanam, machine learning terapan, data engineering, cloud-nativ
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/IssOT/IssOT/output/snake-ponyo.svg?v=2" width="100%" alt="snake" />
+<img src="https://raw.githubusercontent.com/IssOT/IssOT/output/snake.svg?v=3" width="100%" alt="snake" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=0,1,2&section=footer&animation=fadeIn" width="100%" />
 
