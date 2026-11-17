@@ -20,7 +20,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg?palette=github-dark
-            dist/snake-ponyo.svg?color_snake=#ff5a3c&color_dots=#1b2a3a,#1e6fa8,#1e90d6,#4fc3f7,#8fd8f0
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
