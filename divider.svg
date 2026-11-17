@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="50" viewBox="0 0 1200 50">
+  <path d="M0 25 Q50 5 100 25 T200 25 T300 25 T400 25 T500 25 T600 25 T700 25 T800 25 T900 25 T1000 25 T1100 25 T1200 25 T1300 25 T1400 25" fill="none" stroke="#4FC3F7" stroke-width="3" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-200 0" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 33 Q50 13 100 33 T200 33 T300 33 T400 33 T500 33 T600 33 T700 33 T800 33 T900 33 T1000 33 T1100 33 T1200 33 T1300 33 T1400 33" fill="none" stroke="#FF5A3C" stroke-opacity="0.8" stroke-width="2" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="translate" from="-200 0" to="0 0" dur="8s" repeatCount="indefinite"/>
+  </path>
+</svg>
