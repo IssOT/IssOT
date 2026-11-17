@@ -161,7 +161,7 @@ IoT dan sistem tertanam, machine learning terapan, data engineering, cloud-nativ
 
 <br/>
 
-<img src="ponyo-boat.jpg" width="320" alt="Ponyo and Sosuke" />
+<img src="ponyo-boat.jpg" width="100%" alt="Ponyo and Sosuke" />
 
 <br/><br/>
 
