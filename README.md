@@ -28,9 +28,7 @@
 </td>
 <td width="70%">
 
-Mahasiswa **D4 Teknologi Rekayasa Komputer** di **Politeknik Negeri Semarang**. Fokus saya ada pada data, riset, IoT, AI/ML, cloud computing, pengembangan game, dan pengembangan web. Saya aktif di riset akademik dari tingkat nasional hingga jurnal internasional.
-
-Saya percaya sistem yang baik adalah sistem yang bisa direproduksi, diuji, dan dijelaskan, baik di kode maupun di paper.
+Mahasiswa **D4 Teknologi Rekayasa Komputer** di Politeknik Negeri Semarang dengan minat utama di bidang data, mulai dari perancangan basis data, pengolahan dan analisis data, hingga machine learning. Saya terbiasa membangun aplikasi web full-stack dengan Node.js, Express, dan MongoDB, termasuk perancangan REST API dan operasi CRUD. Di sisi perangkat keras, saya mengerjakan proyek IoT berbasis Arduino yang mencakup pembacaan sensor, pengendalian aktuator, dan pengiriman data ke server. Saya juga mempelajari cloud computing, pemrograman berorientasi objek, serta dasar-dasar metodologi riset. Saya senang mengubah data mentah menjadi sistem yang bisa dipakai, dengan kode yang rapi, terdokumentasi, dan mudah direproduksi.
 
 > 🫧 **Fun fact:** Seperti Ponyo yang ingin jadi manusia, saya ingin mengubah ide menjadi sistem yang benar-benar berjalan.
 
@@ -108,16 +106,12 @@ Saya percaya sistem yang baik adalah sistem yang bisa direproduksi, diuji, dan d
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/IssOT/server-iot-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=IssOT&repo=server-iot-2&hide_border=true&bg_color=0B3D6B&title_color=FF5A3C&icon_color=4FC3F7&text_color=E0F4FF" /></a></td>
-<td width="50%"><a href="https://github.com/IssOT/TUGAS-BESAR-BASIS-DATA-II-CRUD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=IssOT&repo=TUGAS-BESAR-BASIS-DATA-II-CRUD&hide_border=true&bg_color=0B3D6B&title_color=FF5A3C&icon_color=4FC3F7&text_color=E0F4FF" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/IssOT/PRAKTIKUM-DAN-PENUGASAN-PEMROGRAMAN-BERBASIS-OBJEK"><img src="https://github-readme-stats.vercel.app/api/pin/?username=IssOT&repo=PRAKTIKUM-DAN-PENUGASAN-PEMROGRAMAN-BERBASIS-OBJEK&hide_border=true&bg_color=0B3D6B&title_color=FF5A3C&icon_color=4FC3F7&text_color=E0F4FF" /></a></td>
-<td width="50%"><a href="https://github.com/IssOT/Praktikum-Algortima-dan-pemograman-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=IssOT&repo=Praktikum-Algoritma-dan-pemograman-1&hide_border=true&bg_color=0B3D6B&title_color=FF5A3C&icon_color=4FC3F7&text_color=E0F4FF" /></a></td>
-</tr>
-</table>
+| Proyek | Deskripsi | Teknologi |
+| :--- | :--- | :--- |
+| [server-iot-2](https://github.com/IssOT/server-iot-2) | Server untuk sistem IoT | JavaScript |
+| [TUGAS-BESAR-BASIS-DATA-II-CRUD](https://github.com/IssOT/TUGAS-BESAR-BASIS-DATA-II-CRUD) | Aplikasi CRUD tugas besar basis data | HTML, MongoDB |
+| [PRAKTIKUM-DAN-PENUGASAN-PEMROGRAMAN-BERBASIS-OBJEK](https://github.com/IssOT/PRAKTIKUM-DAN-PENUGASAN-PEMROGRAMAN-BERBASIS-OBJEK) | Praktikum dan tugas pemrograman berbasis objek | Jupyter Notebook |
+| [Praktikum-Algoritma-dan-pemograman-1](https://github.com/IssOT/Praktikum-Algoritma-dan-pemograman-1) | Tugas mata kuliah algoritma dan pemrograman | - |
 
 </div>
 
@@ -127,8 +121,8 @@ Saya percaya sistem yang baik adalah sistem yang bisa direproduksi, diuji, dan d
 
 | Tahun | Judul | Venue | Tautan |
 | :---: | :--- | :--- | :---: |
-| 2026 | Judul penelitian kamu | Nama jurnal atau kompetisi | [DOI](https://doi.org/) |
-| 2026 | Judul penelitian kamu | Nama jurnal atau kompetisi | [PDF](#) |
+|  |  |  | [DOI](https://doi.org/) |
+| | |  | [PDF](#) |
 
 <details>
 <summary><b>🧭 Research Interests</b></summary>
