@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Ivan Sigit Santoso banner" />
+<img src="banner.svg" width="100%" alt="Ivan Sigit Santoso banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Ivan+%F0%9F%8C%8A;IoT+%7C+AI+%7C+Machine+Learning+%7C+Cloud;Web+Developer+%26+Game+Dev+Enthusiast;Diving+deep+into+code+like+Ponyo+into+the+sea" alt="typing" />
 
@@ -15,7 +15,7 @@
 
 [About](#-about-me) | [Stack](#-tech-stack) | [Stats](#-github-stats) | [Projects](#-featured-projects) | [Research](#-research--publications) | [Contact](#-connect-with-me)
 
-<img src="assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 </div>
 
@@ -24,7 +24,7 @@
 <table>
 <tr>
 <td width="30%" align="center">
-<img src="assets/ponyo-jellyfish.jpg" width="200" alt="Ponyo" />
+<img src="ponyo-jellyfish.jpg" width="200" alt="Ponyo" />
 </td>
 <td width="70%">
 
@@ -38,7 +38,7 @@ Saya percaya sistem yang baik adalah sistem yang bisa direproduksi, diuji, dan d
 </tr>
 </table>
 
-<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+<div align="center"><img src="divider.svg" width="100%" /></div>
 
 ## 🐚 Currently
 
@@ -50,7 +50,7 @@ Saya percaya sistem yang baik adalah sistem yang bisa direproduksi, diuji, dan d
 </tr>
 </table>
 
-<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+<div align="center"><img src="divider.svg" width="100%" /></div>
 
 ## 🐟 Tech Stack
 
@@ -76,7 +76,7 @@ Saya percaya sistem yang baik adalah sistem yang bisa direproduksi, diuji, dan d
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+<div align="center"><img src="divider.svg" width="100%" /></div>
 
 ## 🫧 GitHub Stats
 
@@ -102,7 +102,7 @@ Saya percaya sistem yang baik adalah sistem yang bisa direproduksi, diuji, dan d
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+<div align="center"><img src="divider.svg" width="100%" /></div>
 
 ## 🚤 Featured Projects
 
@@ -121,7 +121,7 @@ Saya percaya sistem yang baik adalah sistem yang bisa direproduksi, diuji, dan d
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+<div align="center"><img src="divider.svg" width="100%" /></div>
 
 ## 🔬 Research & Publications
 
@@ -138,7 +138,7 @@ IoT dan sistem tertanam, machine learning terapan, data engineering, cloud-nativ
 
 </details>
 
-<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+<div align="center"><img src="divider.svg" width="100%" /></div>
 
 ## 🌅 Contribution Activity
 
@@ -148,7 +148,7 @@ IoT dan sistem tertanam, machine learning terapan, data engineering, cloud-nativ
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+<div align="center"><img src="divider.svg" width="100%" /></div>
 
 ## 🐠 Connect With Me
 
@@ -161,7 +161,7 @@ IoT dan sistem tertanam, machine learning terapan, data engineering, cloud-nativ
 
 <br/>
 
-<img src="assets/ponyo-boat.jpg" width="320" alt="Ponyo and Sosuke" />
+<img src="ponyo-boat.jpg" width="320" alt="Ponyo and Sosuke" />
 
 <br/><br/>
 
